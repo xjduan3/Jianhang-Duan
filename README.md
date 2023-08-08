@@ -1,1 +1,1 @@
-# Statistical-Modeling-of-Real-Inductor-Impedance
+# Jianhang Duan
